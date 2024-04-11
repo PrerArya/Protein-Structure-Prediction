@@ -13,4 +13,6 @@ Evolutionary Scale Modeling (ESM) was released one year after AlphaFold-2. ESM h
 4. Iterative Refinement: It iteratively refines the initial protein structure prediction using the encoded evolutionary information and attention mechanism. This iterative process helps improve the accuracy of the final structure prediction.<br>
 5. Deep Learning Architecture: ESMFold employs a deep learning architecture, likely based on neural networks, to learn the complex relationships between sequence data and protein structures.<br>
 6. Training: The model is trained on a large dataset of protein sequences and their experimentally determined structures. During training, it learns to predict accurate protein structures by minimizing the difference between predicted and experimental structures.<br>
-Output: The output of ESMFold is a predicted 3D structure of the target protein sequence, represented in terms of coordinates of atoms in space. This predicted structure provides valuable insights into the protein's function and potential interactions with other molecules.
+Output: The output of ESMFold is a predicted 3D structure of the target protein sequence, represented in terms of coordinates of atoms in space. This predicted structure provides valuable insights into the protein's function and potential interactions with other molecules.<br>
+ # How to Use :
+ One can clone the repo and directly start using since it has a virtual environment in it.
